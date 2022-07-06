@@ -6,4 +6,4 @@
 - 📫 Reach me : omkarborker15@gmail.com
 - ⚡ Fun fact: I'm NaNa
 
-![me](https://github.com/OmkarBorker/OmkarBorker/GIF.gif)
+![](https://github.com/OmkarBorker/OmkarBorker/blob/master/GIF.gif)
