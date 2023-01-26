@@ -1,8 +1,8 @@
 ### Hi there, 
 - I'm Omkar
-- 🌱 I’m currently learning python,javascript,R
+- 🌱 I’m currently learning AR and VR
 - 👯 I’m looking to collaborate on AI projects and Web-Dev
-- 🤔 I’m looking for help with Machine-Learning
+- 🤔 I’m looking for Projects in Machine-Learning
 - 📫 Reach me : omkarborker15@gmail.com
 - ⚡ Fun fact: I'm NaNa
 
