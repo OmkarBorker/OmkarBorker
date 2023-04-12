@@ -1,5 +1,4 @@
-### Hi there, 
-- I'm Omkar
+## Hi there, I'm Omkar
 - 🌱 I’m currently resting
 - 👯 I’m looking to collaborate on AI/ML projects and WEB Projects
 - 🤔 I’m looking for Project Ideas to develop
@@ -7,9 +6,7 @@
 - ⚡ Fun fact: It NaNa
 - Glad if you can buy me a coffee
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarBorker)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmkarBorker&theme=react&line_height=40&hide=css"/> </a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarBorker" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBorker&layout=compact" /></a> |
 
 ![](https://github.com/OmkarBorker/OmkarBorker/blob/main/gif1.gif)
 
