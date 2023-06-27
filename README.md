@@ -1,5 +1,6 @@
 ## Hi there, I'm Omkar
-- 🌱 I’m currently Brainstorming 
+- 🌱 I’m currently Brainstorming
+- Working with JavaScript
 - 📫 Reach me : omkarborker15@gmail.com
 - Glad if you can buy me a coffee
 
